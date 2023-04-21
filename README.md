@@ -1,4 +1,5 @@
-# Portfolio
+# About Me
+
 Regards Books 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
 • e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola Tools 
@@ -30,4 +31,4 @@ Testowanie oprogramowania.
 Courses and Certificates
 Praktyczny kurs testowania oprogramowania Udemy
 Podstawy manualnego testowania oprogramowania Udemy
-Postman od podstaw - testowanie REST API Udemy
+Postman od podstaw - testowanie REST API 
