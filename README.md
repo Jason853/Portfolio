@@ -1,4 +1,9 @@
-# About Me
+#![image](https://user-images.githubusercontent.com/108292217/233560603-bccf8e84-57b7-46fd-88c8-d068d63840ef.png)
+
+
+
+
+About Me
 
 Regards Books 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
