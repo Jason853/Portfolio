@@ -9,7 +9,6 @@ About Me
 
 Regards Books 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
-• e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola Tools 
 •	e-book " Tester oprogramowania" Karolina Zmitrowicz 
  
 
