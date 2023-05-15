@@ -7,7 +7,7 @@
 
 About Me
 
-- Regards Books 
+- / _ Regards Books 
 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
 
