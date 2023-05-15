@@ -7,14 +7,14 @@
 
 About Me
 
-- / _ Regards Books 
+ _ Regards Books 
 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
 
 •	e-book " Tester oprogramowania" Karolina Zmitrowicz 
  
 
-- Relational database management system:
+_ Relational database management system:
 
 • Postman - testing tool for REST API 
 
@@ -32,7 +32,7 @@ About Me
 
 • MySQL
 
-- Tech skills:
+_ Tech skills:
 
 SQL
 
