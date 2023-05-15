@@ -7,14 +7,14 @@
 
 About Me
 
-Regards Books 
+- Regards Books 
 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
 
 •	e-book " Tester oprogramowania" Karolina Zmitrowicz 
  
 
-Relational database management system:
+- Relational database management system:
 
 • Postman - testing tool for REST API 
 
@@ -32,7 +32,7 @@ Relational database management system:
 
 • MySQL
 
-Tech skills:
+- Tech skills:
 
 SQL
 
@@ -46,13 +46,13 @@ Reporting bugs
 
 Theoretical knowledge from the ISTQB
 
-Groups on Facebook:
+- Groups on Facebook:
 
 Tester oprogramowania - wsparcie na starcie
 
 Testowanie oprogramowania.
 
-Courses and Certificates
+- Courses and Certificates
 
 Praktyczny kurs testowania oprogramowania Udemy
 
