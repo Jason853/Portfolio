@@ -46,13 +46,13 @@ Reporting bugs
 
 Theoretical knowledge from the ISTQB
 
-- Groups on Facebook:
+_ Groups on Facebook:
 
 Tester oprogramowania - wsparcie na starcie
 
 Testowanie oprogramowania.
 
-- Courses and Certificates
+_ Courses and Certificates
 
 Praktyczny kurs testowania oprogramowania Udemy
 
