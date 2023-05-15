@@ -9,13 +9,17 @@ About Me
 
 Regards Books 
 • e-book "ABC Testowania oprogramowania" Waldemar Szafraniec
+
 •	e-book " Tester oprogramowania" Karolina Zmitrowicz 
  
 
 Relational database management system:
 • Postman - testing tool for REST API 
+
 • Basic: Json, HTML,CSS, JMater
+
 • Jira - Issue tracking and project management tool for developers
+
 • TestRail - test cases management 
 • Slack - for communication within the team
 • Chrome DevTools - for testing and to improve bug reports 
